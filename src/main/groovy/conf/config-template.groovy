@@ -1,5 +1,12 @@
+package conf
+
 codes {
 	recursive {
-		foo = 'bar'
+		twitter {
+			OAuthConsumerKey = ''
+			OAuthConsumerSecret = ''
+			OAuthAccessToken = ''
+			OAuthAccessTokenSecret = ''
+		}
 	}
 }

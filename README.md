@@ -1,4 +1,10 @@
-# spark-groovy-skeleton
+# spark-twitter-service
+
+## About
+
+A super simple backend for the selfie-station project to handle posting a Tweet to a particular timeline with an image.
+
+## Config
 
 There are three Gradle targets for running the application:
  
